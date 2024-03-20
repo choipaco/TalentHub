@@ -1,0 +1,95 @@
+.main{
+    width: 100%;
+}
+.videoContainer{
+    width: 80%;
+    margin: 0 auto;
+}
+.video{
+    width: 100%;
+}
+.comment{
+    margin: 0 auto;
+    margin-top: 20px;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: bold;
+}
+.contentsContainer{
+    margin: 0 auto;
+}
+
+.title{
+    font-weight: bolder;
+    font-size: 20px;
+    color: #FFFFFF;
+}
+.contentsUser{
+    color: #FFFFFF;
+}
+.subscribe{
+    margin-left: 20px;
+    width: 50px;
+    height: 20px;
+    border-radius: 15px;
+    padding: 1%;
+    font-weight: 550;
+}
+
+.star{
+    margin-left: 20px;
+}
+.starIcon{
+    margin: 0;
+    position: relative;
+    top: 5px;
+}
+.ex{
+    width: 98%;
+    padding: 2%;
+    margin-top: 20px;
+    background-color: rgb(45, 45, 45);
+    border-radius: 8px;
+    
+}
+.exTitle{
+    color: #FFFFFF;
+    font-size: 14px;
+    font-weight: 550;
+}
+
+.exText{
+    width: 98%;
+    margin: 10px auto;
+    color: #FFFFFF;
+    font-size: 14px;
+}
+.commentInputContainer{
+    margin: 10px;
+    width: 100%;
+    border-bottom: 1px solid rgb(134, 134, 134);
+}
+.inputStyle{
+    width: 100%;
+    background: none;
+    color: rgb(134, 134, 134);
+    font-size: 15px;
+    border: none;
+}
+
+.inputBtn{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+
+.commentSubmitBtn{
+    border: none;
+    padding: 5px 15px;
+    border-radius: 15px;
+}
+
+.commentListContainer{
+    width: 100%;
+    margin: 15px;
+}

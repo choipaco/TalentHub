@@ -1,0 +1,15 @@
+.main{
+    margin-top: 80px;
+}
+
+.videoListContainer{
+    margin-top: 20px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+    color: #ffffff;
+    text-align: center;
+}

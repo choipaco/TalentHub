@@ -1,0 +1,10 @@
+.main{
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.notSearch{
+    color: #FFFFFF;
+    
+}

@@ -1,0 +1,59 @@
+.comment{
+    width: 100%;
+    margin: 10px 0;
+}
+
+.commentUser{
+    font-size: 12px;
+}
+
+.times{
+    margin-left: 5px;
+    font-size: 10px;
+    color: rgb(134, 134, 134);
+}
+
+.commentItem{
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.commentUserContainer{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 5px;
+}
+
+.starIcon{
+    cursor: pointer;
+}
+
+.inputStyle{
+    width: 100%;
+    background: none;
+    color: rgb(134, 134, 134);
+    font-size: 15px;
+    border: none;
+}
+
+
+.commentInputContainer{
+    margin: 10px;
+    width: 100%;
+    border-bottom: 1px solid rgb(134, 134, 134);
+}
+
+
+.commentSubmitBtn{
+    border: none;
+    padding: 5px 15px;
+    border-radius: 15px;
+    margin-right: 5px;
+}
+
+
+.inputBtn{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}

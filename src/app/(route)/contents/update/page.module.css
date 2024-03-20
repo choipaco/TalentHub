@@ -1,0 +1,23 @@
+.createContainer{
+    margin-top: 80px;
+}
+
+
+
+.create{
+    width: 60%;
+    height: 50px;
+    border-radius: 15px;
+    margin: 0 auto;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #ffffff;
+    font-size: 15px;
+    font-weight: bolder;
+    border: 1px solid #00ac00;
+    cursor: pointer;
+}
+
+

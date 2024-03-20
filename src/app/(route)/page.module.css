@@ -1,0 +1,20 @@
+.main{
+    height: 400px;
+    margin-top: 80px;
+    display: flex;
+}
+
+.videoListContainer{
+    margin-top: 20px;
+    margin-left: 15%;
+    width: 85%;
+    display: flex;
+    justify-content: center;
+}
+
+.subscribeList{
+    position: fixed;
+    width: 15%;
+    margin-top: 20px;
+    height: 100%;
+}

@@ -1,0 +1,69 @@
+.createContainer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    color: #ffffff;
+    margin-top: 200px;
+  }
+  
+  .formText {
+    width: 50%;
+    margin-right: 20px;
+  }
+  
+  .textContainers {
+    display: flex;
+    flex-direction: column;
+  }
+  
+  .textContainer {
+    margin-bottom: 20px;
+  }
+  
+  .titleContainer {
+    display: flex;
+    align-items: center;
+  }
+  
+  .title {
+    width: 50px;
+    margin-right: 10px;
+  }
+  .titleInput{
+    width: 100%;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: none;
+  }
+  .titleInput2 {
+    width: 100%;
+    height: 100px;
+    padding: 8px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    resize: none;
+  }
+  
+  .dropzoneStyles {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 150px;
+    border: 2px dashed #00ac00;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  .uploadLabel {
+    cursor: pointer;
+  }
+  
+  .imageFileText {
+    margin-right: 10px;
+  }
+  

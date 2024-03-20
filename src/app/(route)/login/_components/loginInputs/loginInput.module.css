@@ -1,0 +1,21 @@
+
+.loginInput{
+    width: 305px;
+    height: 55px;
+    border: 1px solid #D8D8D8;
+    border-radius: 10px;
+    padding-left: 15px;
+}
+.loginchk{
+    width: 320px;
+    height: 30px;
+}
+
+.loginMargin{
+    margin-top: 15px;
+}
+
+.autoLoginMargin{
+    margin-top: 10px;
+    font-family: 'Outfit';
+}

@@ -1,0 +1,72 @@
+.main{
+    width: 100vw;
+    height: 100vh;
+}
+.loginContainer{
+    width: 400px;
+    height: 500px;
+    margin: 0 auto;
+    position: relative;
+    top: 100px;
+}
+.loginTitle{
+    text-align: center;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 64px;
+    line-height: 81px;
+
+}
+
+.loginTitleColor1{
+    font-family: 'Outfit';
+    color: #FFFFFF; 
+    font-weight: 700;
+}
+
+.loginTitleColor2{
+    color: #FFFFFF;
+    font-weight: 500;
+}
+
+.loginDep{
+    text-align: center;
+    font-family: 'Outfit';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #2D2D2D;
+
+}
+
+.loginFormContainer{
+    display: flex;
+    width: 330px;
+    margin: 0 auto;
+    margin-top: 20px;
+    flex-wrap: wrap;
+    justify-content: center;
+    
+}
+
+.findIDContainer{
+    width: 320px;
+    margin-top: 10px;
+    text-align: right;
+}
+
+.findID{
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 19px;
+/* identical to box height */
+text-align: right;
+
+color: #0075FF;
+
+
+}

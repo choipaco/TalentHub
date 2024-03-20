@@ -1,0 +1,46 @@
+.itemContainer{
+    width: 300px;
+    height: 250px;
+    margin: 5px;
+    position: relative;
+    z-index: 10;
+}
+
+.itemImg{
+    width: 300px;
+    height: 200px;
+    border-radius: 12px;
+    border: 1px solid #ffffff;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.itemWording{
+    width: 300px;
+    height: 50px;
+    position: relative;
+    z-index: 10;
+
+}
+.detailModal{
+    position: relative;
+    z-index: 11;
+}
+.title{
+    color: #ffffff;
+    font-weight: bold;
+    font-size: 16px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.user{
+    color: rgb(173, 173, 173);
+    font-size: 13px;
+    
+}
+.views{
+    color: rgb(173, 173, 173);
+    font-size: 13px;
+}

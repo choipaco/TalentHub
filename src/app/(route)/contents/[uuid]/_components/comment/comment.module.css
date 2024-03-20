@@ -1,0 +1,54 @@
+.comment{
+    margin: 0 auto;
+    margin-top: 20px;
+    color: #FFFFFF;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.commentUser{
+    font-size: 12px;
+}
+
+.times{
+    margin-left: 5px;
+    font-size: 10px;
+    color: rgb(134, 134, 134);
+}
+
+.commentItem{
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.commentInputContainer{
+    margin: 10px;
+    width: 100%;
+    border-bottom: 1px solid rgb(134, 134, 134);
+}
+
+.inputStyle{
+    width: 100%;
+    background: none;
+    color: rgb(134, 134, 134);
+    font-size: 15px;
+    border: none;
+}
+
+.inputBtn{
+    width: 100%;
+    display: flex;
+    justify-content: end;
+}
+
+.commentSubmitBtn{
+    border: none;
+    padding: 5px 15px;
+    border-radius: 15px;
+}
+
+.commentListContainer{
+    width: 100%;
+    margin: 15px;
+    padding-bottom: 20px;
+}

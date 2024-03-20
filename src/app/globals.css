@@ -1,0 +1,62 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'Outfit';
+    src: url('../../public/assets/font/Outfit-Medium.ttf') format('truetype');
+}
+@font-face {
+    font-family: 'AppleSDGothicNeoSB00';
+    src: url('../../public/assets/font/AppleSDGothicNeoL.ttf') format('truetype');
+}
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+ul, ol {
+    list-style: none;
+}
+
+a {
+    text-decoration: none
+}
+
+button, textarea, input{
+    outline: none;
+}
+html{
+    background-color: black;
+
+}
+main{
+    background-color: black;
+
+}
+
+input::placeholder, textarea::placeholder{
+    font-family: 'Outfit';
+}
+
+
+button{
+    cursor: pointer;
+}
+
+.iconColor{
+    color: #00ac00;
+}
+
+.iconColorBack{
+    background-color: #00ac00;;
+}
+
+
+
+::-webkit-scrollbar {
+    background-color: black;
+}
+
+::-webkit-scrollbar-thumb{
+    background-color: #FFFFFF;
+    border-radius: 15px;
+}
